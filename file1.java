@@ -3,4 +3,9 @@ public class sample {
     system.out.println("Hello World.......")
       }
   }
+
+public class sample1 {
+    system.out.println("New feature added to fix the customer issue.......")
+      }
+  }
     
